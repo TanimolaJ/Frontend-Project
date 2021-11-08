@@ -20,8 +20,8 @@
 }
 
 .button2 {
-    color: black /* black */;
-    text-align: center;
+    color: black; /* black */;
+    padding: 16px 32px;
     transition-duration: 0.4s;
     cursor: pointer;
     font-family: Arial, Helvetica, sans-serif;
